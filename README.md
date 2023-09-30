@@ -1,6 +1,4 @@
-# Project Title
-
-**Brief project description and purpose.**
+# Fullstack-IoT
 
 ## Table of Contents
 
