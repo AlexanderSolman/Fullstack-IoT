@@ -1,0 +1,8 @@
+CREATE DATABASE sensors;
+CREATE TABLE temperature (
+    id SERIAL PRIMARY KEY,
+    temp FLOAT NOT NULL,
+    datum TIMESTAMP(0) DEFAULT NOW(),
+    plats VARCHAR(50) NOT NULL
+);
+
