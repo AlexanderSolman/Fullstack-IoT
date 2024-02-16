@@ -10,7 +10,8 @@
 
 ## Overview
 
-Project showcasing a setup to show temperature data in real-time including data collection, backend, database and frontend.
+Collection of data in real-time visualized through a react based frontend which is served via the spring backend. Data is stored in a
+PostgreSQL database for further use.
 
 ### Hardware
 
